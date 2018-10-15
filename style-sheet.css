@@ -1,6 +1,12 @@
+* {
+  margin:  0;
+  padding: 0;
+}
+
 /*　body　*/
-body{
+body {
   color: #626262;
+  margin:  0 auto;
 }
 
 a {
@@ -105,6 +111,13 @@ line-height: 200%;
 .update{
   border-bottom: 2px solid #c8c8c8;
 }
+
+/* ポートフォリオ */
+.portfolioWrp {
+  border-top:  1px solid #c8c8c8;
+border-bottom:  1px solid #c8c8c8;
+}
+
 /* footer */
 footer{
   background-color: #5fbb5f;
